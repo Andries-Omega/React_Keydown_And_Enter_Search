@@ -1,0 +1,9 @@
+@tailwind components;
+@tailwind base;
+@tailwind utilities;
+
+body {
+	background: url("../Assets/images/pokemon.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
